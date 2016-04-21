@@ -1,0 +1,17 @@
+{
+  "name": "sync-open",
+  "version": "0.0.1",
+  "description": "create static server and open major browsers",
+  "main": "index.js",
+  "author": "techhtml",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techhtml/sync-open.git"
+  },
+  "dependencies": {
+    "browser-sync": "^2.12.3",
+    "open": "0.0.5",
+    "ip": "^1.1.2"
+  }
+}
